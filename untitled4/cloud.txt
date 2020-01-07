@@ -1,0 +1,8 @@
+table1:str STRING;int INTEGER;
+qwe 1 
+second 22 
+
+2:q STRING;q STRING;
+qwe asd 
+
+.end.
